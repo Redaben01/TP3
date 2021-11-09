@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">git list</string>
+    <string name="button">search</string>
+    <string name="edittext">username</string>
+</resources>
